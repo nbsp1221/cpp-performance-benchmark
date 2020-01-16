@@ -9,6 +9,13 @@ This is an example of using `find` and `count` to check if `std::unordered_map` 
 ### Code
 
 ```c++
+#include "PerformanceBenchmark.hpp"
+
+#include <iostream>
+#include <unordered_map>
+
+using namespace std;
+
 void codeBlock1()
 {
 	unordered_map<string, int> data;
