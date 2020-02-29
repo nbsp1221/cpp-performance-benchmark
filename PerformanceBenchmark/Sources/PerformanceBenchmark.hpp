@@ -2,7 +2,7 @@
  * Performance Benchmark
  *
  * Author: retn0 (nbsp1221)
- * GitHub Repository: https://github.com/nbsp1221/CppPerformanceBenchmark
+ * GitHub Repository: https://github.com/nbsp1221/cpp-performance-benchmark
  *
  * Compiled and tested with 'Visual Studio 2019'
  */
